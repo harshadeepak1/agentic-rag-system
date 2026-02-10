@@ -1,0 +1,34 @@
+# Core Dependencies
+streamlit==1.32.0
+python-dotenv==1.0.1
+
+# LLM and Embeddings
+google-generativeai
+
+# Vector Database
+pymilvus==2.3.6
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+python-pptx==0.6.23
+openpyxl==3.1.2
+pandas==2.2.1
+
+# Text Processing
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-google-genai
+sentence-transformers==2.5.1
+
+# Utilities
+tiktoken==0.6.0
+tenacity==8.2.3
+pydantic==2.6.3
+
+# Additional Tools
+numpy==1.26.4
+tqdm==4.66.2
+
+
+
